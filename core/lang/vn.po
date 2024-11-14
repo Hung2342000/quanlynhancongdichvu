@@ -1,0 +1,1994 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 18.0\n"
+"Report-Msgid-Bugs-To: https://icehrm.com\n"
+"Last-Translator: Thilina Hasantha\n"
+"Language-Team: IceHrm\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2018-03-05T05:26:33+05:30\n"
+"PO-Revision-Date: 2018-03-05T05:26:33+05:30\n"
+"Language: Vietnamese\n"
+
+msgid "Save"
+msgstr "Lưu"
+
+msgid "Cancel"
+msgstr "Hủy"
+
+msgid "Done"
+msgstr "Hoàn tất"
+
+msgid "Clocked In Employees"
+msgstr "Nhân viên đã chấm công"
+
+msgid "Candidates"
+msgstr "Ứng viên"
+
+msgid "View Employees"
+msgstr "Xem nhân viên"
+
+msgid "Add a New Employee"
+msgstr "Thêm nhân viên mới"
+
+msgid "Leave Calendar"
+msgstr "Lịch nghỉ phép"
+
+msgid "Manage Client/Projects"
+msgstr "Quản lý khách hàng/dự án"
+
+msgid "Home"
+msgstr "Mobifone"
+
+msgid "Quick Access"
+msgstr "Truy cập nhanh"
+
+msgid "Switch"
+msgstr "Chuyển đổi"
+
+msgid "Profile"
+msgstr "Hồ sơ"
+
+msgid "Sign out"
+msgstr "Đăng xuất"
+
+msgid "Help"
+msgstr "Trợ giúp"
+
+msgid "About"
+msgstr "Giới thiệu"
+
+msgid "Version"
+msgstr "Phiên bản"
+
+msgid "Release Date"
+msgstr "Ngày phát hành"
+
+msgid "Logged In"
+msgstr "Đã đăng nhập"
+
+msgid "Admin"
+msgstr "Quản trị viên"
+
+msgid "Manager"
+msgstr "Giám đốc"
+
+msgid "Dashboard"
+msgstr "Bảng điều khiển"
+
+msgid "Company Structure"
+msgstr "Cơ cấu công ty"
+
+msgid "Job Details Setup"
+msgstr "Cài đặt chi tiết công việc"
+
+msgid "Qualifications Setup"
+msgstr "Cài đặt bằng cấp"
+
+msgid "Training Setup"
+msgstr "Cài đặt đào tạo"
+
+msgid "Projects/Client Setup"
+msgstr "Cài đặt dự án/khách hàng"
+
+msgid "Leave Settings"
+msgstr "Cài đặt nghỉ phép"
+
+msgid "Company Loans"
+msgstr "Khoản vay công ty"
+
+msgid "Audit Log"
+msgstr "Nhật ký kiểm tra"
+
+msgid "Employees"
+msgstr "Nhân viên"
+
+msgid "Employee History"
+msgstr "Lịch sử nhân viên"
+
+msgid "Document Management"
+msgstr "Quản lý tài liệu"
+
+msgid "Travel Administration"
+msgstr "Quản lý công tác"
+
+msgid "Expense Administration"
+msgstr "Quản lý chi phí"
+
+msgid "Monitor Attendance"
+msgstr "Theo dõi điểm danh"
+
+msgid "Performance Charts"
+msgstr "Biểu đồ hiệu suất"
+
+msgid "Overtime Administration"
+msgstr "Quản lý làm thêm giờ"
+
+msgid "Admin Reports"
+msgstr "Báo cáo quản trị"
+
+msgid "Reports"
+msgstr "Báo cáo"
+
+msgid "Report Files"
+msgstr "Tệp báo cáo"
+
+msgid "System"
+msgstr "Hệ thống"
+
+msgid "Settings"
+msgstr "Cài đặt"
+
+msgid "Users"
+msgstr "Người dùng"
+
+msgid "Manage Modules"
+msgstr "Quản lý mô-đun"
+
+msgid "Manage Permissions"
+msgstr "Quản lý quyền"
+
+msgid "Upgrade"
+msgstr "Nâng cấp"
+
+msgid "Manage Metadata"
+msgstr "Quản lý siêu dữ liệu"
+
+msgid "Field Names Setup"
+msgstr "Cài đặt tên trường"
+
+msgid "Payroll"
+msgstr "Tiền lương"
+
+msgid "Salary"
+msgstr "Lương"
+
+msgid "Payroll Reports"
+msgstr "Báo cáo lương"
+
+msgid "Recruitment"
+msgstr "Tuyển dụng"
+
+msgid "Recruitment Setup"
+msgstr "Cài đặt tuyển dụng"
+
+msgid "Job Positions"
+msgstr "Vị trí công việc"
+
+msgid "Personal Information"
+msgstr "Thông tin cá nhân"
+
+msgid "Basic Information"
+msgstr "Thông tin cơ bản"
+
+msgid "Qualifications"
+msgstr "Bằng cấp"
+
+msgid "Dependents"
+msgstr "Người phụ thuộc"
+
+msgid "Emergency Contacts"
+msgstr "Liên hệ khẩn cấp"
+
+msgid "Leave"
+msgstr "Nghỉ phép"
+
+msgid "Leave Management"
+msgstr "Quản lý nghỉ phép"
+
+msgid "Time Management"
+msgstr "Quản lý thời gian"
+
+msgid "Projects"
+msgstr "Dự án"
+
+msgid "Attendance"
+msgstr "Chấm công"
+
+msgid "Time Sheets"
+msgstr "Bảng chấm công"
+
+msgid "Attendance Sheets"
+msgstr "Bảng điểm danh"
+
+msgid "Overtime Requests"
+msgstr "Yêu cầu làm thêm giờ"
+
+msgid "Documents"
+msgstr "Tài liệu"
+
+msgid "My Documents"
+msgstr "Tài liệu của tôi"
+
+msgid "Company"
+msgstr "Công ty"
+
+msgid "Staff Directory"
+msgstr "Danh bạ nhân viên"
+
+msgid "Training"
+msgstr "Đào tạo"
+
+msgid "Travel Management"
+msgstr "Quản lý công tác"
+
+msgid "Travel"
+msgstr "Công tác"
+
+msgid "Finance"
+msgstr "Tài chính"
+
+msgid "Expenses"
+msgstr "Chi phí"
+
+msgid "Loans"
+msgstr "Khoản vay"
+
+msgid "User Reports"
+msgstr "Báo cáo người dùng"
+
+msgid "People"
+msgstr "Nhân sự"
+
+msgid "Manage"
+msgstr "Quản lý"
+
+msgid "Departments"
+msgstr "Phòng ban"
+
+msgid "Active Projects"
+msgstr "Dự án đang hoạt động"
+
+msgid "Update Clients/Projects"
+msgstr "Cập nhật khách hàng/dự án"
+
+msgid "Entries Last Week"
+msgstr "Nhập liệu tuần trước"
+
+msgid "Upcoming"
+msgstr "Sắp tới"
+
+msgid "View / Download Reports"
+msgstr "Xem / Tải báo cáo"
+
+msgid "Generate a Report"
+msgstr "Tạo báo cáo"
+
+msgid "Configure"
+msgstr "Cấu hình"
+
+msgid "Update"
+msgstr "Cập nhật"
+
+msgid "Applicants"
+msgstr "Ứng viên"
+
+msgid "Active Jobs"
+msgstr "Công việc đang hoạt động"
+
+msgid "Jobs Posted"
+msgstr "Công việc đã đăng"
+
+msgid "Jobs"
+msgstr "Công việc"
+
+msgid "Courses"
+msgstr "Khóa học"
+
+msgid "Requests"
+msgstr "Yêu cầu"
+
+
+msgid "Document"
+msgstr "Tài liệu"
+
+msgid "Management"
+msgstr "Quản lý"
+
+msgid "Expense"
+msgstr "Chi phí"
+
+msgid "Permission"
+msgstr "Quyền"
+
+msgid "Permissions"
+msgstr "Các quyền"
+
+msgid "and"
+msgstr "và"
+
+msgid "Invoices"
+msgstr "Hóa đơn"
+
+msgid "Make a Payment"
+msgstr "Thực hiện thanh toán"
+
+msgid "Switch Employee"
+msgstr "Chuyển đổi nhân viên"
+
+msgid "Select The Employee to Switch Into"
+msgstr "Chọn nhân viên để chuyển đổi"
+
+msgid "Close"
+msgstr "Đóng"
+
+msgid "My Profile"
+msgstr "Hồ sơ của tôi"
+
+msgid "Edit Details"
+msgstr "Chỉnh sửa chi tiết"
+
+msgid "View/Edit Profile"
+msgstr "Xem/Chỉnh sửa hồ sơ"
+
+msgid "Punch In"
+msgstr "Điểm danh vào"
+
+msgid "or"
+msgstr "hoặc"
+
+msgid "Punch Out"
+msgstr "Điểm danh ra"
+
+msgid "Record Attendance"
+msgstr "Ghi chép điểm danh"
+
+msgid "Pending Leaves"
+msgstr "Nghỉ phép đang chờ xử lý"
+
+msgid "Check Leave Status"
+msgstr "Kiểm tra trạng thái nghỉ phép"
+
+msgid "Hours worked Last Week"
+msgstr "Số giờ làm việc tuần trước"
+
+msgid "Update Time Sheet"
+msgstr "Cập nhật bảng chấm công"
+
+msgid "My Projects"
+msgstr "Dự án của tôi"
+
+msgid "Projects Assigned"
+msgstr "Dự án được giao"
+
+msgid "More info"
+msgstr "Thêm thông tin"
+
+msgid "Store"
+msgstr "Lưu trữ"
+
+msgid "My Travel"
+msgstr "Công tác của tôi"
+
+msgid "My Expenses"
+msgstr "Chi phí của tôi"
+
+msgid "Manage Expenses"
+msgstr "Quản lý chi phí"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Name"
+msgstr "Tên"
+
+msgid "Address"
+msgstr "Địa chỉ"
+
+msgid "Type"
+msgstr "Loại"
+
+msgid "Country"
+msgstr "Quốc gia"
+
+msgid "Time Zone"
+msgstr "Múi giờ"
+
+msgid "Parent Structure"
+msgstr "Cơ cấu cha"
+
+msgid "Details"
+msgstr "Chi tiết"
+
+msgid "Heads"
+msgstr "Trưởng bộ phận"
+
+msgid "Code"
+msgstr "Mã"
+
+msgid "Job Title Code"
+msgstr "Mã chức danh công việc"
+
+msgid "Job Title"
+msgstr "Chức danh công việc"
+
+msgid "Description"
+msgstr "Mô tả"
+
+msgid "Specification"
+msgstr "Thông số kỹ thuật"
+
+msgid "Currency"
+msgstr "Tiền tệ"
+
+msgid "Min Salary"
+msgstr "Lương tối thiểu"
+
+msgid "Max Salary"
+msgstr "Lương tối đa"
+
+msgid "Pay Grade Name"
+msgstr "Tên bậc lương"
+
+msgid "Employment Status"
+msgstr "Trạng thái công việc"
+
+msgid "Coordinator"
+msgstr "Điều phối viên"
+
+msgid "Trainer"
+msgstr "Huấn luyện viên"
+
+msgid "Trainer Details"
+msgstr "Chi tiết huấn luyện viên"
+
+msgid "Payment Type"
+msgstr "Loại thanh toán"
+
+msgid "Cost"
+msgstr "Chi phí"
+
+msgid "Status"
+msgstr "Trạng thái"
+
+msgid "Course"
+msgstr "Khóa học"
+
+msgid "Scheduled Time"
+msgstr "Thời gian dự kiến"
+
+msgid "Assignment Due Date"
+msgstr "Hạn nộp bài tập"
+
+msgid "Delivery Method"
+msgstr "Phương thức giao hàng"
+
+msgid "Delivery Location"
+msgstr "Địa điểm giao hàng"
+
+msgid "Attendance Type"
+msgstr "Loại điểm danh"
+
+msgid "Attachment"
+msgstr "Tệp đính kèm"
+
+msgid "Training Certificate Required"
+msgstr "Yêu cầu chứng chỉ đào tạo"
+
+msgid "Employee"
+msgstr "Nhân viên"
+
+msgid "Training Session"
+msgstr "Buổi đào tạo"
+
+msgid "Contact Number"
+msgstr "Số liên lạc"
+
+msgid "Contact Email"
+msgstr "Email liên lạc"
+
+msgid "Company Url"
+msgstr "URL công ty"
+
+msgid "First Contact Date"
+msgstr "Ngày liên lạc đầu tiên"
+
+msgid "Client"
+msgstr "Khách hàng"
+
+msgid "Project"
+msgstr "Dự án"
+
+msgid "Leave Name"
+msgstr "Tên nghỉ phép"
+
+msgid "Leave Accrue Enabled"
+msgstr "Cho phép tích lũy nghỉ phép"
+
+msgid "Leave Carried Forward"
+msgstr "Nghỉ phép được chuyển tiếp"
+
+msgid "Leaves Per Year"
+msgstr "Số ngày nghỉ phép mỗi năm"
+
+msgid "Leaves Group"
+msgstr "Nhóm nghỉ phép"
+
+msgid "Leaves Per Leave Period"
+msgstr "Số ngày nghỉ phép mỗi kỳ nghỉ phép"
+
+msgid "Admin can assign leave to employees"
+msgstr "Quản trị viên có thể cấp nghỉ phép cho nhân viên"
+
+msgid "Employees can apply for this leave type"
+msgstr "Nhân viên có thể đăng ký loại nghỉ phép này"
+
+msgid "Employees can apply beyond the current leave balance"
+msgstr "Nhân viên có thể đăng ký vượt quá số ngày nghỉ phép hiện tại"
+
+msgid "Percentage of Leaves Carried Forward"
+msgstr "Phần trăm nghỉ phép được chuyển tiếp"
+
+msgid "Maximum Carried Forward Amount"
+msgstr "Số ngày nghỉ phép chuyển tiếp tối đa"
+
+msgid "Carried Forward Leave Availability Period"
+msgstr "Thời gian sử dụng nghỉ phép chuyển tiếp"
+
+msgid "Proportionate leaves on Joined Date"
+msgstr "Nghỉ phép theo tỷ lệ vào ngày tham gia"
+
+msgid "Send Notification Emails"
+msgstr "Gửi email thông báo"
+
+msgid "Leave Group"
+msgstr "Nhóm nghỉ phép"
+
+msgid "Leave Color"
+msgstr "Màu nghỉ phép"
+
+msgid "Period Start"
+msgstr "Bắt đầu kỳ nghỉ phép"
+
+msgid "Period End"
+msgstr "Kết thúc kỳ nghỉ phép"
+
+msgid "Day"
+msgstr "Ngày"
+
+msgid "For All Countries"
+msgstr "Cho tất cả các quốc gia"
+
+msgid "Date"
+msgstr "Ngày"
+
+msgid "Leave Type"
+msgstr "Loại nghỉ phép"
+
+msgid "Propotionate leaves on Joined Date"
+msgstr "Nghỉ phép theo tỷ lệ vào ngày tham gia"
+
+msgid "Leaves Period"
+msgstr "Kỳ nghỉ phép"
+
+msgid "Leave Amount"
+msgstr "Số ngày nghỉ phép"
+
+msgid "Leave Period"
+msgstr "Thời kỳ nghỉ phép"
+
+msgid "Note"
+msgstr "Ghi chú"
+
+msgid "All Employees"
+msgstr "Tất cả nhân viên"
+
+msgid "All Leave Types"
+msgstr "Tất cả các loại nghỉ phép"
+
+msgid "Loan Type"
+msgstr "Loại khoản vay"
+
+msgid "Loan Start Date"
+msgstr "Ngày bắt đầu khoản vay"
+
+msgid "Loan Period (Months)"
+msgstr "Thời gian khoản vay (tháng)"
+
+msgid "Amount"
+msgstr "Số tiền"
+
+msgid "Last Installment Date"
+msgstr "Ngày trả góp cuối cùng"
+
+msgid "Loan Amount"
+msgstr "Số tiền vay"
+
+msgid "Monthly Installment"
+msgstr "Trả góp hàng tháng"
+
+msgid "Employee Number"
+msgstr "Mã số nhân viên"
+
+msgid "First Name"
+msgstr "Tên"
+
+msgid "Middle Name"
+msgstr "Tên đệm"
+
+msgid "Last Name"
+msgstr "Họ"
+
+msgid "Nationality"
+msgstr "Quốc tịch"
+
+msgid "Date of Birth"
+msgstr "Ngày sinh"
+
+msgid "Gender"
+msgstr "Giới tính"
+
+msgid "Marital Status"
+msgstr "Tình trạng hôn nhân"
+
+msgid "Ethnicity"
+msgstr "Dân tộc"
+
+msgid "Immigration Status"
+msgstr "Tình trạng nhập cư"
+
+msgid "SSN/NRIC"
+msgstr "SSN/NRIC"
+
+msgid "NIC"
+msgstr "NIC"
+
+msgid "Other ID"
+msgstr "CMND/CCCD khác"
+
+msgid "Driving License No"
+msgstr "Số giấy phép lái xe"
+
+msgid "Pay Grade"
+msgstr "Bậc lương"
+
+msgid "Work Station Id"
+msgstr "Mã trạm làm việc"
+
+msgid "Address Line 1"
+msgstr "Địa chỉ dòng 1"
+
+msgid "Address Line 2"
+msgstr "Địa chỉ dòng 2"
+
+msgid "City"
+msgstr "Thành phố"
+
+msgid "Province"
+msgstr "Tỉnh"
+
+msgid "Postal/Zip Code"
+msgstr "Mã bưu điện/Mã Zip"
+
+msgid "Home Phone"
+msgstr "Điện thoại nhà"
+
+msgid "Mobile Phone"
+msgstr "Điện thoại di động"
+
+msgid "Work Phone"
+msgstr "Điện thoại công việc"
+
+msgid "Work Email"
+msgstr "Email công việc"
+
+msgid "Private Email"
+msgstr "Email cá nhân"
+
+msgid "Joined Date"
+msgstr "Ngày gia nhập"
+
+msgid "Confirmation Date"
+msgstr "Ngày xác nhận"
+
+msgid "Termination Date"
+msgstr "Ngày kết thúc"
+
+msgid "Department"
+msgstr "Phòng ban"
+
+msgid "Supervisor"
+msgstr "Người giám sát"
+
+msgid "Indirect Supervisors"
+msgstr "Giám sát gián tiếp"
+
+msgid "First Level Approver"
+msgstr "Phê duyệt cấp 1"
+
+msgid "Second Level Approver"
+msgstr "Phê duyệt cấp 2"
+
+msgid "Third Level Approver"
+msgstr "Phê duyệt cấp 3"
+
+msgid "Notes"
+msgstr "Ghi chú"
+
+msgid "Time (GMT)"
+msgstr "Thời gian (GMT)"
+
+msgid "User"
+msgstr "Người dùng"
+
+msgid "IP Address"
+msgstr "Địa chỉ IP"
+
+msgid "Logged In Employee"
+msgstr "Nhân viên đăng nhập"
+
+msgid "Skill"
+msgstr "Kỹ năng"
+
+msgid "Qualification"
+msgstr "Trình độ"
+
+msgid "Institute"
+msgstr "Viện"
+
+msgid "Start Date"
+msgstr "Ngày bắt đầu"
+
+msgid "Completed On"
+msgstr "Hoàn thành vào"
+
+msgid "Certification"
+msgstr "Chứng chỉ"
+
+msgid "Granted On"
+msgstr "Cấp vào"
+
+msgid "Valid Thru"
+msgstr "Có giá trị đến"
+
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+msgid "Reading"
+msgstr "Đọc"
+
+msgid "Speaking"
+msgstr "Nói"
+
+msgid "Writing"
+msgstr "Viết"
+
+msgid "Understanding"
+msgstr "Hiểu"
+
+msgid "Date Added"
+msgstr "Ngày thêm"
+
+msgid "Valid Until"
+msgstr "Có giá trị đến"
+
+msgid "Relationship"
+msgstr "Mối quan hệ"
+
+msgid "Id Number"
+msgstr "Số CMND/CCCD"
+
+msgid "All Job Titles"
+msgstr "Tất cả các chức danh công việc"
+
+msgid "All Departments"
+msgstr "Tất cả các phòng ban"
+
+msgid "Anyone"
+msgstr "Bất kỳ ai"
+
+msgid "Field"
+msgstr "Trường"
+
+msgid "Old Value"
+msgstr "Giá trị cũ"
+
+msgid "New Value"
+msgstr "Giá trị mới"
+
+msgid "Modified By"
+msgstr "Đã chỉnh sửa bởi"
+
+msgid "Created"
+msgstr "Đã tạo"
+
+msgid "Notify Expiry"
+msgstr "Thông báo hết hạn"
+
+msgid "Notify Expiry Before One Month"
+msgstr "Thông báo hết hạn trước một tháng"
+
+msgid "Notify Expiry Before One Week"
+msgstr "Thông báo hết hạn trước một tuần"
+
+msgid "Notify Expiry Before One Day"
+msgstr "Thông báo hết hạn trước một ngày"
+
+msgid "Travel Type"
+msgstr "Loại hình du lịch"
+
+msgid "Purpose of Travel"
+msgstr "Mục đích du lịch"
+
+msgid "Travel From"
+msgstr "Khởi hành từ"
+
+msgid "Travel To"
+msgstr "Đi đến"
+
+msgid "Travel Date"
+msgstr "Ngày du lịch"
+
+msgid "Return Date"
+msgstr "Ngày trở về"
+
+msgid "Total Funding Proposed"
+msgstr "Tổng kinh phí đề xuất"
+
+msgid "Itinerary / Cab Receipt"
+msgstr "Lịch trình / Hóa đơn taxi"
+
+msgid "Other Attachment 1"
+msgstr "Tài liệu đính kèm khác 1"
+
+msgid "Other Attachment 2"
+msgstr "Tài liệu đính kèm khác 2"
+
+msgid "Payment Method"
+msgstr "Phương thức thanh toán"
+
+msgid "Transaction / Ref No"
+msgstr "Số giao dịch / Số tham chiếu"
+
+msgid "Payee"
+msgstr "Người nhận tiền"
+
+msgid "Expense Category"
+msgstr "Danh mục chi phí"
+
+msgid "Receipt"
+msgstr "Biên lai"
+
+msgid "Time-In"
+msgstr "Thời gian vào"
+
+msgid "Time-Out"
+msgstr "Thời gian ra"
+
+msgid "Clocked In Status"
+msgstr "Trạng thái chấm công"
+
+msgid "End Date"
+msgstr "Ngày kết thúc"
+
+msgid "Category"
+msgstr "Danh mục"
+
+msgid "Start Time"
+msgstr "Giờ bắt đầu"
+
+msgid "End Time"
+msgstr "Giờ kết thúc"
+
+msgid "Leave Status"
+msgstr "Trạng thái nghỉ phép"
+
+msgid "Select Client"
+msgstr "Chọn khách hàng"
+
+msgid "Not Selected"
+msgstr "Chưa chọn"
+
+msgid "Or Project"
+msgstr "Hoặc dự án"
+
+msgid "All Projects"
+msgstr "Tất cả các dự án"
+
+msgid "All Status"
+msgstr "Tất cả các trạng thái"
+
+msgid "Value"
+msgstr "Giá trị"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "User Name"
+msgstr "Tên người dùng"
+
+msgid "Authentication Email"
+msgstr "Email xác thực"
+
+msgid "User Level"
+msgstr "Cấp độ người dùng"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "User Roles"
+msgstr "Vai trò người dùng"
+
+msgid "Default Module"
+msgstr "Mô-đun mặc định"
+
+msgid "No Default Module"
+msgstr "Không có mô-đun mặc định"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Group"
+msgstr "Nhóm"
+
+msgid "Order"
+msgstr "Thứ tự"
+
+msgid "Path"
+msgstr "Đường dẫn"
+
+msgid "Label"
+msgstr "Nhãn"
+
+msgid "User Levels"
+msgstr "Cấp độ người dùng"
+
+msgid "Module"
+msgstr "Mô-đun"
+
+msgid "All Modules"
+msgstr "Tất cả các mô-đun"
+
+msgid "Invoice Period Start"
+msgstr "Ngày bắt đầu kỳ hóa đơn"
+
+msgid "Invoice Period End"
+msgstr "Ngày kết thúc kỳ hóa đơn"
+
+msgid "Due date"
+msgstr "Ngày đến hạn"
+
+msgid "Url"
+msgstr "URL"
+
+msgid "Original Text"
+msgstr "Văn bản gốc"
+
+msgid "Mapped Text"
+msgstr "Văn bản đã ánh xạ"
+
+msgid "Display Status"
+msgstr "Trạng thái hiển thị"
+
+msgid "Field Type"
+msgstr "Loại trường"
+
+msgid "Field Label"
+msgstr "Nhãn trường"
+
+msgid "Validation"
+msgstr "Xác thực"
+
+msgid "Field Options"
+msgstr "Tùy chọn trường"
+
+msgid "Priority"
+msgstr "Ưu tiên"
+
+msgid "Display Section"
+msgstr "Phần hiển thị"
+
+msgid "Salary Component Type"
+msgstr "Loại thành phần lương"
+
+msgid "Salary Component"
+msgstr "Thành phần lương"
+
+msgid "Pay Frequency"
+msgstr "Tần suất trả lương"
+
+msgid "Calculation Group"
+msgstr "Nhóm tính toán"
+
+msgid "None"
+msgstr "Không có"
+
+msgid "Calculation Exemptions"
+msgstr "Miễn trừ tính toán"
+
+msgid "Calculations Assigned"
+msgstr "Tính toán đã được phân công"
+
+msgid "Date Start"
+msgstr "Ngày bắt đầu"
+
+msgid "Date End"
+msgstr "Ngày kết thúc"
+
+msgid "Payslip Template"
+msgstr "Mẫu phiếu lương"
+
+msgid "Payroll Columns"
+msgstr "Cột bảng lương"
+
+msgid "Calculation Method"
+msgstr "Phương pháp tính toán"
+
+msgid "Editable"
+msgstr "Có thể chỉnh sửa"
+
+msgid "Enabled"
+msgstr "Đã kích hoạt"
+
+msgid "Predefined Calculations"
+msgstr "Tính toán đã định nghĩa sẵn"
+
+msgid "Salary Components"
+msgstr "Các thành phần lương"
+
+msgid "Columns to Add"
+msgstr "Cột cần thêm"
+
+msgid "Columns to Subtract"
+msgstr "Cột cần trừ"
+
+msgid "Column Order"
+msgstr "Thứ tự cột"
+
+msgid "Default Value"
+msgstr "Giá trị mặc định"
+
+msgid "Calculation Columns"
+msgstr "Cột tính toán"
+
+msgid "Function"
+msgstr "Chức năng"
+
+msgid "Payroll Report Column"
+msgstr "Cột báo cáo bảng lương"
+
+msgid "Calculation Process"
+msgstr "Quá trình tính toán"
+
+msgid "Payslip Fields"
+msgstr "Trường phiếu lương"
+
+msgid "Payroll Column"
+msgstr "Cột bảng lương"
+
+msgid "Text"
+msgstr "Văn bản"
+
+msgid "Lower Limit Condition"
+msgstr "Điều kiện giới hạn dưới"
+
+msgid "Lower Limit"
+msgstr "Giới hạn dưới"
+
+msgid "Upper Limit Condition"
+msgstr "Điều kiện giới hạn trên"
+
+msgid "Upper Limit"
+msgstr "Giới hạn trên"
+
+msgid "Column"
+msgstr "Cột"
+
+msgid "Job Code"
+msgstr "Mã công việc"
+
+msgid "Short Description"
+msgstr "Mô tả ngắn"
+
+msgid "Requirements"
+msgstr "Yêu cầu"
+
+msgid "Benefits"
+msgstr "Lợi ích"
+
+msgid "Employment Type"
+msgstr "Loại hình công việc"
+
+msgid "Any Employment Type"
+msgstr "Bất kỳ loại hình công việc nào"
+
+msgid "Experience Level"
+msgstr "Mức độ kinh nghiệm"
+
+msgid "Any Experience Level"
+msgstr "Bất kỳ mức độ kinh nghiệm nào"
+
+msgid "Job Function"
+msgstr "Chức năng công việc"
+
+msgid "Any Job Function"
+msgstr "Bất kỳ chức năng công việc nào"
+
+msgid "Education Level"
+msgstr "Trình độ học vấn"
+
+msgid "Any Education Level"
+msgstr "Bất kỳ trình độ học vấn nào"
+
+msgid "Show Salary"
+msgstr "Hiển thị lương"
+
+msgid "Salary Min"
+msgstr "Lương tối thiểu"
+
+msgid "Salary Max"
+msgstr "Lương tối đa"
+
+msgid "Keywords"
+msgstr "Từ khóa"
+
+msgid "Closing Date"
+msgstr "Ngày kết thúc"
+
+msgid "Image"
+msgstr "Hình ảnh"
+
+msgid "Display Type"
+msgstr "Loại hiển thị"
+
+msgid "Profile Image"
+msgstr "Hình ảnh hồ sơ"
+
+msgid "Telephone"
+msgstr "Điện thoại"
+
+msgid "Resume Title"
+msgstr "Tiêu đề sơ yếu lý lịch"
+
+msgid "Resume"
+msgstr "Sơ yếu lý lịch"
+
+msgid "Resume Headline"
+msgstr "Tiêu đề sơ yếu lý lịch"
+
+msgid "Profile Summary"
+msgstr "Tóm tắt hồ sơ"
+
+msgid "Work History"
+msgstr "Lịch sử công việc"
+
+msgid "Education"
+msgstr "Học vấn"
+
+msgid "Skills"
+msgstr "Kỹ năng"
+
+msgid "Referees"
+msgstr "Người giới thiệu"
+
+msgid "From Year"
+msgstr "Từ năm"
+
+msgid "From Month"
+msgstr "Từ tháng"
+
+msgid "To Year"
+msgstr "Đến năm"
+
+msgid "To Month"
+msgstr "Đến tháng"
+
+msgid "Currently Work Here"
+msgstr "Đang làm việc tại đây"
+
+msgid "Degree/Diploma"
+msgstr "Bằng cấp/Chứng chỉ"
+
+msgid "Currently Studying"
+msgstr "Đang học"
+
+msgid "Skill Level"
+msgstr "Mức độ kỹ năng"
+
+msgid "Last Used Year"
+msgstr "Năm sử dụng lần cuối"
+
+msgid "Last Used Month"
+msgstr "Tháng sử dụng lần cuối"
+
+msgid "Years of Experience"
+msgstr "Số năm kinh nghiệm"
+
+msgid "Designation"
+msgstr "Chức danh"
+
+msgid "Phone"
+msgstr "Điện thoại"
+
+msgid "Job"
+msgstr "Công việc"
+
+msgid "Candidate"
+msgstr "Ứng viên"
+
+msgid "Referred By"
+msgstr "Giới thiệu bởi"
+
+msgid "Leave Start Date"
+msgstr "Ngày bắt đầu nghỉ phép"
+
+msgid "Leave End Date"
+msgstr "Ngày kết thúc nghỉ phép"
+
+msgid "Reason"
+msgstr "Lý do"
+
+msgid "Available Leaves"
+msgstr "Số ngày phép còn lại"
+
+msgid "Approved Leaves"
+msgstr "Ngày nghỉ được phê duyệt"
+
+msgid "Rejected Leaves"
+msgstr "Ngày nghỉ bị từ chối"
+
+msgid "Leaves to be Accrued"
+msgstr "Ngày nghỉ cần tích lũy"
+
+msgid "Leaves Carried Forward"
+msgstr "Ngày nghỉ chuyển tiếp"
+
+msgid "Apply Leave"
+msgstr "Đăng ký nghỉ phép"
+
+msgid "Filter"
+msgstr "Lọc"
+
+msgid "Add New"
+msgstr "Thêm"
+
+msgid "Time"
+msgstr "Thời gian"
+
+msgid "Purpose"
+msgstr "Mục đích"
+
+msgid "From"
+msgstr "Từ"
+
+msgid "To"
+msgstr "Đến"
+
+msgid "Created (GMT)"
+msgstr "Tạo (GMT)"
+
+msgid "Download"
+msgstr "Tải xuống"
+
+msgid "Submit"
+msgstr "Gửi"
+
+msgid "Upload"
+msgstr "Tải lên"
+
+msgid "Remove"
+msgstr "Xóa"
+
+msgid "Add"
+msgstr "Thêm"
+
+msgid "Reset"
+msgstr "Đặt lại"
+
+msgid "Add Time Entry"
+msgstr "Thêm mục thời gian"
+
+msgid "Current Clocked In Status"
+msgstr "Trạng thái hiện tại khi vào làm"
+
+msgid "Attendance entry should be within a single day"
+msgstr "Mục điểm danh phải trong cùng một ngày"
+
+msgid "Account Balance"
+msgstr "Số dư tài khoản"
+
+msgid "Plan"
+msgstr "Kế hoạch"
+
+msgid "Transactions"
+msgstr "Giao dịch"
+
+msgid "Applications"
+msgstr "Đơn xin"
+
+msgid "Attendance Graph"
+msgstr "Biểu đồ điểm danh"
+
+msgid "Hours in Office vs Hours Worked Graph"
+msgstr "Biểu đồ giờ làm việc tại văn phòng so với giờ làm việc"
+
+msgid "Company Graph"
+msgstr "Biểu đồ công ty"
+
+msgid "Company Documents"
+msgstr "Tài liệu công ty"
+
+msgid "Document Types"
+msgstr "Loại tài liệu"
+
+msgid "Employee Documents"
+msgstr "Tài liệu nhân viên"
+
+msgid "Employee Basic Details"
+msgstr "Chi tiết cơ bản của nhân viên"
+
+msgid "Employees (Direct Reports)"
+msgstr "Nhân viên (báo cáo trực tiếp)"
+
+msgid "Certifications"
+msgstr "Chứng chỉ"
+
+msgid "Languages"
+msgstr "Ngôn ngữ"
+
+msgid "Deactivated Employees"
+msgstr "Nhân viên đã bị vô hiệu hóa"
+
+msgid "Temporarily Deactivated Employees"
+msgstr "Nhân viên bị vô hiệu hóa tạm thời"
+
+msgid "Terminated Employee Data"
+msgstr "Dữ liệu nhân viên đã thôi việc"
+
+msgid "Employee Saved Successfully"
+msgstr "Nhân viên đã được lưu thành công"
+
+msgid "Employee needs a User to login to IceHrm. Do you want to create a user for this employee now?"
+msgstr "Nhân viên cần một người dùng để đăng nhập vào IceHrm. Bạn có muốn tạo một người dùng cho nhân viên này ngay bây giờ không?"
+
+msgid "You can do this later through Users module if required."
+msgstr "Bạn có thể thực hiện điều này sau thông qua mô-đun Người dùng nếu cần."
+
+msgid "Expenses Categories"
+msgstr "Danh mục chi phí"
+
+msgid "Payment Methods"
+msgstr "Phương thức thanh toán"
+
+msgid "Employee Expenses"
+msgstr "Chi phí của nhân viên"
+
+msgid "Salary Component Types"
+msgstr "Loại thành phần lương"
+
+msgid "Employee Salary Components"
+msgstr "Thành phần lương của nhân viên"
+
+msgid "Company Payroll"
+msgstr "Bảng lương công ty"
+
+msgid "Calculation Groups"
+msgstr "Nhóm tính toán"
+
+msgid "Calculation Methods"
+msgstr "Phương pháp tính toán"
+
+msgid "Payslip Templates"
+msgstr "Mẫu phiếu lương"
+
+msgid "Edit Employment Types"
+msgstr "Chỉnh sửa loại hình công việc"
+
+msgid "Edit Experience Levels"
+msgstr "Chỉnh sửa mức độ kinh nghiệm"
+
+msgid "Edit Job Functions"
+msgstr "Chỉnh sửa chức năng công việc"
+
+msgid "Edit Education Levels"
+msgstr "Chỉnh sửa trình độ học vấn"
+
+msgid "Edit Benefits"
+msgstr "Chỉnh sửa quyền lợi"
+
+msgid "Application"
+msgstr "Đơn xin"
+
+msgid "Job Titles"
+msgstr "Chức danh công việc"
+
+msgid "Pay Grades"
+msgstr "Bậc lương"
+
+msgid "Training Sessions"
+msgstr "Buổi huấn luyện"
+
+msgid "Employee Training Sessions"
+msgstr "Buổi huấn luyện của nhân viên"
+
+msgid "Clients"
+msgstr "Khách hàng"
+
+msgid "Employee Projects"
+msgstr "Dự án của nhân viên"
+
+msgid "Leave Types"
+msgstr "Các loại nghỉ phép"
+
+msgid "Work Week"
+msgstr "Tuần làm việc"
+
+msgid "Holidays"
+msgstr "Ngày lễ"
+
+msgid "Leave Rules"
+msgstr "Quy tắc nghỉ phép"
+
+msgid "Paid Time Off"
+msgstr "Thời gian nghỉ có lương"
+
+msgid "Leave Groups"
+msgstr "Nhóm nghỉ phép"
+
+msgid "Edit Leave Groups"
+msgstr "Chỉnh sửa nhóm nghỉ phép"
+
+msgid "Leave Group Employees"
+msgstr "Nhân viên nhóm nghỉ phép"
+
+msgid "Employee Leave List"
+msgstr "Danh sách nghỉ phép của nhân viên"
+
+msgid "Loan Types"
+msgstr "Các loại vay"
+
+msgid "Employee Loans"
+msgstr "Vay của nhân viên"
+
+msgid "Travel Requests"
+msgstr "Yêu cầu đi công tác"
+
+msgid "Overtime Categories"
+msgstr "Danh mục làm thêm giờ"
+
+msgid "Leave / PTO"
+msgstr "Nghỉ phép / PTO"
+
+msgid "Other"
+msgstr "Khác"
+
+msgid "Modules"
+msgstr "Mô-đun"
+
+msgid "Countries"
+msgstr "Các quốc gia"
+
+msgid "Provinces"
+msgstr "Các tỉnh"
+
+msgid "Currency Types"
+msgstr "Loại tiền tệ"
+
+msgid "Employee Custom Fields"
+msgstr "Trường tùy chỉnh của nhân viên"
+
+msgid "Employee Field Names"
+msgstr "Tên trường của nhân viên"
+
+msgid "My Details"
+msgstr "Thông tin của tôi"
+
+msgid "All My Leaves"
+msgstr "Tất cả ngày nghỉ của tôi"
+
+msgid "Leave Entitlement"
+msgstr "Quyền nghỉ phép"
+
+msgid "Approved Leave"
+msgstr "Ngày nghỉ được phê duyệt"
+
+msgid "Pending Leave"
+msgstr "Ngày nghỉ đang chờ"
+
+msgid "Subordinate Leave"
+msgstr "Ngày nghỉ của cấp dưới"
+
+msgid "Cancellation Requests"
+msgstr "Yêu cầu hủy bỏ"
+
+msgid "Approval Requests"
+msgstr "Yêu cầu phê duyệt"
+
+msgid "Approved TimeSheets"
+msgstr "Bảng chấm công đã phê duyệt"
+
+msgid "All My TimeSheets"
+msgstr "Tất cả bảng chấm công của tôi"
+
+msgid "Pending TimeSheets"
+msgstr "Bảng chấm công đang chờ"
+
+msgid "Subordinate TimeSheets"
+msgstr "Bảng chấm công của cấp dưới"
+
+msgid "Approved Attendance Sheets"
+msgstr "Bảng điểm danh đã phê duyệt"
+
+msgid "All My Attendance Sheets"
+msgstr "Tất cả bảng điểm danh của tôi"
+
+msgid "Pending Attendance Sheets"
+msgstr "Bảng điểm danh đang chờ"
+
+msgid "Subordinate Attendance Sheets"
+msgstr "Bảng điểm danh của cấp dưới"
+
+msgid "Subordinate Overtime Requests"
+msgstr "Yêu cầu làm thêm giờ của cấp dưới"
+
+msgid "Overtime Request Approval"
+msgstr "Phê duyệt yêu cầu làm thêm giờ"
+
+msgid "My Training Sessions"
+msgstr "Buổi huấn luyện của tôi"
+
+msgid "All Training Sessions"
+msgstr "Tất cả buổi huấn luyện"
+
+msgid "Training Sessions of Direct Reports"
+msgstr "Buổi huấn luyện của báo cáo trực tiếp"
+
+msgid "Subordinate Travel Requests"
+msgstr "Yêu cầu đi công tác của cấp dưới"
+
+msgid "Travel Request Approval"
+msgstr "Phê duyệt yêu cầu đi công tác"
+
+msgid "Subordinate Expenses"
+msgstr "Chi phí của cấp dưới"
+
+msgid "Expenses Approval"
+msgstr "Phê duyệt chi phí"
+
+msgid "Loans Taken"
+msgstr "Khoản vay đã lấy"
+
+msgid "Change Leave Status"
+msgstr "Thay đổi trạng thái nghỉ phép"
+
+msgid "Status Change Note"
+msgstr "Ghi chú thay đổi trạng thái"
+
+msgid "Leave Summary"
+msgstr "Tóm tắt nghỉ phép"
+
+msgid "Approved Leave Count"
+msgstr "Số ngày nghỉ được phê duyệt"
+
+msgid "Pending Leave Count"
+msgstr "Số ngày nghỉ đang chờ"
+
+msgid "Available Leave Count"
+msgstr "Số ngày nghỉ còn lại"
+
+msgid "Leave Dates"
+msgstr "Ngày nghỉ phép"
+
+msgid "Leave Date"
+msgstr "Ngày nghỉ phép"
+
+msgid "Leave Notes"
+msgstr "Ghi chú nghỉ phép"
+
+msgid "Apply"
+msgstr "Áp dụng"
+
+msgid "Back"
+msgstr "Quay lại"
+
+msgid "Hours in Time Sheets"
+msgstr "Giờ trong bảng chấm công"
+
+msgid "HR form"
+msgstr "Mẫu HR"
+
+msgid "HR Form Management"
+msgstr "Quản lý mẫu HR"
+
+msgid "Form Name"
+msgstr "Tên mẫu"
+
+msgid "Fields"
+msgstr "Trường"
+
+msgid "Employee Froms"
+msgstr "Mẫu nhân viên"
+
+msgid "Share Departments"
+msgstr "Chia sẻ phòng ban"
+
+msgid "Share Employees"
+msgstr "Chia sẻ nhân viên"
+
+msgid "Data Importers"
+msgstr "Trình nhập dữ liệu"
+
+msgid "Data Import Files"
+msgstr "Tệp nhập dữ liệu"
+
+msgid "Data Type"
+msgstr "Loại dữ liệu"
+
+msgid "Columns"
+msgstr "Cột"
+
+msgid "Field Title"
+msgstr "Tiêu đề trường"
+
+msgid "Depends On"
+msgstr "Phụ thuộc vào"
+
+msgid "Depends On Field"
+msgstr "Phụ thuộc vào trường"
+
+msgid "is Key Field"
+msgstr "Là trường khóa"
+
+msgid "is ID Field"
+msgstr "Là trường ID"
+
+msgid "Data Import Definitions"
+msgstr "Định nghĩa nhập dữ liệu"
+
+msgid "File to Import"
+msgstr "Tệp để nhập"
+
+msgid "Last Export Results"
+msgstr "Kết quả xuất cuối cùng"
+
+msgid "Time and Attendance"
+msgstr "Thời gian và điểm danh"
+
+msgid "Leave Timeline"
+msgstr "Dòng thời gian nghỉ phép"
+
+msgid "Insights"
+msgstr "Nhận xét"
+
+msgid "Api Access"
+msgstr "Truy cập API"
+
+msgid "Change User Password"
+msgstr "Thay đổi mật khẩu người dùng"
+
+msgid "New Password"
+msgstr "Mật khẩu mới"
+
+msgid "Confirm Password"
+msgstr "Xác nhận mật khẩu"
+
+msgid "Change Password"
+msgstr "Thay đổi mật khẩu"
+
+msgid "Not Now"
+msgstr "Không phải bây giờ"
+
+msgid "Contact Information"
+msgstr "Thông tin liên hệ"
+
+msgid "Job Details"
+msgstr "Chi tiết công việc"
+
+msgid "Edit Info"
+msgstr "Chỉnh sửa thông tin"
+
+msgid "Upload Profile Image"
+msgstr "Tải lên ảnh đại diện"
+
+msgid "Delete Profile Image"
+msgstr "Xóa ảnh đại diện"
+
+msgid "Direct Reports"
+msgstr "Báo cáo trực tiếp"
+
+msgid "Other Details"
+msgstr "Chi tiết khác"
+
+msgid "Family"
+msgstr "Gia đình"
+
+msgid "Custom Fields"
+msgstr "Trường tùy chỉnh"
+
+msgid "Means of Transportation"
+msgstr "Phương tiện giao thông"
+
+msgid "Plane"
+msgstr "Máy bay"
+
+msgid "Rail"
+msgstr "Tàu hỏa"
+
+msgid "Taxi"
+msgstr "Taxi"
+
+msgid "Own Vehicle"
+msgstr "Xe riêng"
+
+msgid "Rented Vehicle"
+msgstr "Xe thuê"
+
+msgid "Female"
+msgstr "Nữ"
+
+msgid "Male"
+msgstr "Nam"
+
+msgid "Active"
+msgstr "Kích hoạt"
+
+msgid "Inactive"
+msgstr "Không kích hoạt"
+
+msgid "Draft"
+msgstr "Bản nháp"
+
+msgid "Not Clocked In"
+msgstr "Chưa vào giờ"
+
+msgid "Clocked In"
+msgstr "Đã vào giờ"
+
+msgid "File"
+msgstr "Tệp"
+
+msgid "Active Employee Report"
+msgstr "Báo cáo nhân viên đang hoạt động"
+
+msgid "Employee Attendance Report"
+msgstr "Báo cáo điểm danh nhân viên"
+
+msgid "Employee Details Report"
+msgstr "Báo cáo chi tiết nhân viên"
+
+msgid "Employee Leave Entitlement"
+msgstr "Quyền nghỉ phép của nhân viên"
+
+msgid "Employee Leaves Report"
+msgstr "Báo cáo ngày nghỉ phép của nhân viên"
+
+msgid "Employee Time Entry Report"
+msgstr "Báo cáo nhập thời gian của nhân viên"
+
+msgid "Employee Time Sheet Report"
+msgstr "Báo cáo bảng chấm công của nhân viên"
+
+msgid "Employee Time Tracking Report"
+msgstr "Báo cáo theo dõi thời gian của nhân viên"
+
+msgid "Expense Report"
+msgstr "Báo cáo chi phí"
+
+msgid "New Hires Employee Report"
+msgstr "Báo cáo nhân viên mới tuyển"
+
+msgid "Overtime Report"
+msgstr "Báo cáo làm thêm giờ"
+
+msgid "Overtime Request Report"
+msgstr "Báo cáo yêu cầu làm thêm giờ"
+
+msgid "Overtime Summary Report"
+msgstr "Báo cáo tổng kết làm thêm giờ"
+
+msgid "Payroll Meta Data Export"
+msgstr "Xuất dữ liệu siêu dữ liệu bảng lương"
+
+msgid "Terminated Employee Report"
+msgstr "Báo cáo nhân viên đã thôi việc"
+
+msgid "Travel Request Report"
+msgstr "Báo cáo yêu cầu đi công tác"
+
+msgid "Attendance Report"
+msgstr "Báo cáo điểm danh"
+
+msgid "Client Project Time Report"
+msgstr "Báo cáo thời gian dự án của khách hàng"
+
+msgid "Download Payslips"
+msgstr "Tải bảng lương"
+
+msgid "Leaves Report"
+msgstr "Báo cáo ngày nghỉ"
+
+msgid "Time Entry Report"
+msgstr "Báo cáo nhập thời gian"
+
+msgid "Time Sheet Report"
+msgstr "Báo cáo bảng chấm công"
+
+msgid "Time Tracking Report"
+msgstr "Báo cáo theo dõi thời gian"
+
+msgid "Data"
+msgstr "Dữ liệu"
+
+msgid "Processed"
+msgstr "Đã xử lý"
+
+msgid "Not Processed"
+msgstr "Chưa xử lý"
+
+msgid "Elementary Proficiency"
+msgstr "Trình độ cơ bản"
+
+msgid "Limited Working Proficiency"
+msgstr "Trình độ làm việc có hạn"
+
+msgid "Professional Working Proficiency"
+msgstr "Trình độ làm việc chuyên nghiệp"
+
+msgid "Full Professional Proficiency"
+msgstr "Trình độ chuyên nghiệp hoàn chỉnh"
+
+msgid "Native or Bilingual Proficiency"
+msgstr "Trình độ bản ngữ hoặc song ngữ"
+
+msgid "Pending"
+msgstr "Đang chờ"
+
+msgid "Approved"
+msgstr "Đã phê duyệt"
+
+msgid "Rejected"
+msgstr "Đã từ chối"
+
+msgid "Cancelled"
+msgstr "Đã hủy"
+
+msgid "Continue"
+msgstr "Tiếp tục"
+
+msgid "Cancellation Requested"
+msgstr "Yêu cầu hủy bỏ"
+
+msgid "Completed"
+msgstr "Hoàn thành"
+
+msgid "Discussions"
+msgstr "Thảo luận"
+
+msgid "Load More"
+msgstr "Tải thêm"
+
+msgid "Show More"
+msgstr "Hiển thị thêm"
+
+msgid "Show Less"
+msgstr "Hiển thị ít hơn"
+
+msgid "Publish"
+msgstr "Công bố"
+
+msgid "Announcements"
+msgstr "Thông báo"
+
+msgid "Send"
+msgstr "Gửi"
+
+msgid "Display"
+msgstr "Hiển thị"
+
+msgid "Public"
+msgstr "Công khai"
+
+msgid "View Announcements"
+msgstr "Xem thông báo"
+
+msgid "Conversations"
+msgstr "Cuộc trò chuyện"
+
+msgid "Start Now"
+msgstr "Bắt đầu ngay"
+
+msgid "Company Assets"
+msgstr "Tài sản công ty"
+
+msgid "Asset Types"
+msgstr "Loại tài sản"
+
+msgid "Asset Name"
+msgstr "Tên tài sản"
+
+msgid "Performance"
+msgstr "Hiệu suất"
+
+msgid "Performance Review"
+msgstr "Đánh giá hiệu suất"
+
+msgid "Performance Reviews"
+msgstr "Đánh giá hiệu suất"
+
+msgid "Review"
+msgstr "Đánh giá"
+
+msgid "Reviews"
+msgstr "Các đánh giá"
+
+msgid "Review Feedback"
+msgstr "Phản hồi đánh giá"
+
+msgid "Review Template"
+msgstr "Mẫu đánh giá"
+
+msgid "Template"
+msgstr "Mẫu"
+
+msgid "Review Date"
+msgstr "Ngày đánh giá"
+
+msgid "Self Assessment Due On"
+msgstr "Tự đánh giá hạn vào ngày"
+
+msgid "Review Period Start"
+msgstr "Bắt đầu kỳ đánh giá"
+
+msgid "Review Period End"
+msgstr "Kết thúc kỳ đánh giá"
+
+msgid "Attendees"
+msgstr "Người tham dự"
+
+msgid "Performance Reviews Coordinated by Me"
+msgstr "Đánh giá hiệu suất do tôi điều phối"
+
+msgid "Provide Feedback"
+msgstr "Cung cấp phản hồi"
+
+msgid "Review Status"
+msgstr "Trạng thái đánh giá"
+
+msgid "Payroll Employees"
+msgstr "Nhân viên bảng lương"
+
+msgid "Payroll Groups"
+msgstr "Nhóm bảng lương"
+
+msgid "Saved Calculations"
+msgstr "Các phép tính đã lưu"
+
+msgid "Total Leave Days"
+msgstr "Tổng số ngày nghỉ"
+
+msgid "Actions"
+msgstr "Hành động"
+
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+msgid "View"
+msgstr "Xem"
+
+msgid "Delete"
+msgstr "Xóa"
+
+msgid "Copy"
+msgstr "Sao chép"
+
